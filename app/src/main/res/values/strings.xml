@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebasePushNotificationApp</string>
+    <string name="msg_token_fmt">login</string>
+    <string name="copy_token">COPY TOKEN</string>
+</resources>
